@@ -1,5 +1,6 @@
-# CS867-Assignment-1-Ameera
-Tasks
+# Application of filters and detectors on images
+Tasks:::
+
 A set of images is given with this assignment to perform the following tasks. However, feel free to use
 your own set of images.
 
